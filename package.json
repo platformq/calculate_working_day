@@ -1,0 +1,25 @@
+{
+  "name": "calculate-working-day",
+  "version": "0.0.1",
+  "description": "Adds business days to a date",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Hubert Pompecki",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platformq/calculate_working_day.git"
+  },
+  "bugs": {
+    "url": "https://github.com/platformq/calculate_working_day/issues"
+  },
+  "homepage": "https://github.com/platformq/calculate_working_day#readme"
+}
